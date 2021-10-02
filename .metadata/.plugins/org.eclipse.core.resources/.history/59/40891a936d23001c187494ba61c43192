@@ -1,0 +1,5 @@
+package com.servlets.users;
+
+public class SearchFlights {
+
+}

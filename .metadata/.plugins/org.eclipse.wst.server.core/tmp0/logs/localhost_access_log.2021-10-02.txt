@@ -1,0 +1,16 @@
+127.0.0.1 - - [02/Oct/2021:16:54:03 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [02/Oct/2021:16:54:09 +0530] "GET /FlyawayAbhinav/index.jsp HTTP/1.1" 200 711
+0:0:0:0:0:0:0:1 - - [02/Oct/2021:16:55:55 +0530] "GET /FlyawayAbhinav/login.jsp HTTP/1.1" 200 381
+0:0:0:0:0:0:0:1 - - [02/Oct/2021:16:55:58 +0530] "POST /FlyawayAbhinav/login HTTP/1.1" 404 1034
+0:0:0:0:0:0:0:1 - - [02/Oct/2021:16:56:31 +0530] "POST /FlyawayAbhinav/login HTTP/1.1" 404 1034
+0:0:0:0:0:0:0:1 - - [02/Oct/2021:17:01:00 +0530] "GET /FlyawayAbhinav/payment.jsp HTTP/1.1" 200 736
+0:0:0:0:0:0:0:1 - - [02/Oct/2021:17:02:53 +0530] "GET /FlyawayAbhinav/payment.jsp HTTP/1.1" 200 737
+0:0:0:0:0:0:0:1 - - [02/Oct/2021:17:07:49 +0530] "GET /FlyawayAbhinav/login.jsp HTTP/1.1" 200 381
+0:0:0:0:0:0:0:1 - - [02/Oct/2021:17:09:43 +0530] "GET /FlyawayAbhinav/Index.jsp HTTP/1.1" 404 1042
+0:0:0:0:0:0:0:1 - - [02/Oct/2021:17:10:03 +0530] "GET /FlyawayAbhinav/index.jsp HTTP/1.1" 200 711
+0:0:0:0:0:0:0:1 - - [02/Oct/2021:17:12:36 +0530] "GET /FlyawayAbhinav/index.jsp HTTP/1.1" 200 711
+0:0:0:0:0:0:0:1 - - [02/Oct/2021:17:12:39 +0530] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [02/Oct/2021:17:12:54 +0530] "GET /FlyawayAbhinav/search-flights?source=&destination=&price=&date= HTTP/1.1" 404 1052
+0:0:0:0:0:0:0:1 - - [02/Oct/2021:17:14:04 +0530] "GET /FlyawayAbhinav/payment.jsp HTTP/1.1" 200 737
+0:0:0:0:0:0:0:1 - - [02/Oct/2021:17:15:20 +0530] "GET /FlyawayAbhinav/dashboard.jsp HTTP/1.1" 200 433
+0:0:0:0:0:0:0:1 - - [02/Oct/2021:17:16:06 +0530] "GET /FlyawayAbhinav/changepassword.jsp HTTP/1.1" 200 442
